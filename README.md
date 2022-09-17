@@ -1,10 +1,5 @@
-# SmartBrain - v1
-Final project for ZTM course
-
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
-4. You must add your own API key in the `src/App.js` file to connect to Clarifai.
-
-You can grab Clarifai API key [here](https://www.clarifai.com/)
-
+ Created a WebApp with ML API (Clarifai API) to detect faces from images.
+ Used React.js in Front End for Creating the UI and Client Side Rendering.
+ For server-side rendering, I used Node.js and Express.js while I used Clarifai API for Detecting Face.
+ Used PostgreSQL as a Database to do Login Checks and iterate through emails and passwords.
+ Live: Smart Brain Face Recognition App (project-smartbrain.herokuapp.com
